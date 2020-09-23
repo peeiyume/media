@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+# "Emmy 2020: The winners of the 72nd Ceremony
 
-You can use the [editor on GitHub](https://github.com/peeiyume/media/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](emmys1.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the 72nd Emmy Awards ceremony, HBO's Heirs won the Best Drama Series nomination. The creator of the project Jesse Armstrong received the award in a London hotel room, and in his speech of gratitude mentioned U.S. President Donald Trump and Coronavirus. "No thanks to the virus for separating us all this year. No thanks to President Trump for his vile and poorly coordinated reaction to the situation," the writer said. - And no thanks to the media magnates who are doing so much to keep these people in power.
 
-### Markdown
+Shitts Creek was chosen as the main comedy series, which also won prizes for the best female and male roles in the comedy project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This year "Guardians" were leading in the nominations. As a result, the series took four awards - in addition to "Best Mini-Series", the project won in the categories "Best Female Role in a Mini-Series or a TV movie," "Best Male Role in a Mini-Series or a TV movie" and "Best Screenplay Episode Mini-Series.
 
-```markdown
-Syntax highlighted code block
+Among the channels presented at the "Emmy-2020", the most awards collected HBO - 11. Of these, four were on "Heirs" and four - on "Guardians". The comedy series "Shitts Creek" brought seven prizes to Pop TV channel. Netflix this year limited itself to two wins - for the series "Ozark" (Julia Garner) and "Unorthodox", which was awarded for best director of an episode of the mini-series.
 
-# Header 1
-## Header 2
-### Header 3
+![Branching](emmys2.jpg)
 
-- Bulleted
-- List
+## The list of winners looks as follows:
 
-1. Numbered
-2. List
+### Best drama series:
 
-**Bold** and _Italic_ and `Code` text
+- "The Heirs"
+- "Better call the Saul."
+- "The Crown"
+- "The Maid's Tale"
+- "Mandalorean"
+- "Killing Eve."
+- "Very strange things."
+- "Ozark"
 
-[Link](url) and ![Image](src)
-```
+### The best comedy series:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- "Shitts Creek."
+- "Die your enthusiasm."
+- "Dead to me."
+- "The White Crow"
+- "Cominsky's method."
+- "The Amazing Mrs. Maisel."
+- "In a better world."
+- "What we do in the shadows."
 
-### Jekyll Themes
+### The best mini-series:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peeiyume/media/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- "Guardians"
+- "And the fires are smoldering everywhere."
+- "Mrs. America."
+- "Unbelievable."
+- "Unorthodox."
 
-### Support or Contact
+![Branching](emmys3.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Best TV movie:
+
+- "Perfect."
+- "American son"
+- "El Camino: All heavy."
+- "Unbreakable Kimmy Schmidt: Kimmy vs the Reverend."
+- "Dolly Parton's Soul Strings."
+
+### Best male role in a drama series:
+
+- Jeremy Strong - "The Heirs".
+- Jason Bateman - "The Ozark"
+- Sterling C. Brown - "This is us"
+- Steve Karell - "Morning Show"
+- Brian Cox - "Heirs"
+- Billy Porter - "Pose"
+
+### The best female role in the drama series:
+
+- Zenday - "Euphoria"
+- Jennifer Aniston - "Morning Show"
+- Olivia Coleman - "The Crown"
+- Laura Linney - "The Ozark"
+- Sandra O - "Killing Eve"
+- Jody Comer - "Killing Eve."
+
+### Best supporting male role in a drama series:
+
+- Billy Krudap - "Morning Show".
+- Giancarlo Esposito - "Better call the Saul."
+- Matthew McFadian - "Heirs."
+- Kiran Kalkin - "Heirs"
+- Nicholas Brown - "Heirs"
+- Bradley Whitford - "The Maid's Story"
+- Jeffrey Wright - "World of the Wild West"
+- Marc Duplass - "Morning Show"
